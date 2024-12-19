@@ -8,6 +8,7 @@ import Register from "./Components/Register/Register.jsx";
 import Admin from "./Components/Admin/Admin.jsx";
 import Annonce from "./Components/Annonce/Annonce.jsx";
 import Wrapper from "./Components/Wrapper/Wrapper.jsx";
+// TEST
 import PrivateRoute from "./Components/Security/PrivateRoute.jsx";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
